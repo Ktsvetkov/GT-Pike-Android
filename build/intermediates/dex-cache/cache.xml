@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/pre-dexed/debug/classes-28b7437d7258318af599179f393b5e1fd27b986f.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-53676d93192f282f14714def0726c6d2b9204e06.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-1c49a41dbf13c9a34e17ca7e403a7994894138fd.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/Kamenator/Work/publicGitHub/GT-Pike-Android/app/build/intermediates/pre-dexed/debug/classes-e3299699a510261ec0f9778140cf558286a17523.jar" />
+    </item>
+
+</items>
